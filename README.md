@@ -1,7 +1,9 @@
 # Pizzeroo
 
-Pienimuotoinen sovellus ravintoloiden arvosteluun, kehitelty lähinnä oppimisprojektiksi. Sisältää käyttöliittymän ja yksinkertaisen RESTful-sovelluspalvelurajapinnan.
-\
+<p>
+  Pienimuotoinen sovellus ravintoloiden arvosteluun, kehitelty lähinnä oppimisprojektiksi. Sisältää käyttöliittymän ja yksinkertaisen   RESTful-sovelluspalvelurajapinnan.
+</p>
+
 Ulkoiset dokumentaatiot
 ---------------------
 [Express](https://expressjs.com/)\
